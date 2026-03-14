@@ -6,6 +6,8 @@
 [![Built with Claude Code](https://img.shields.io/badge/built%20with-Claude%20Code-blueviolet)](https://docs.anthropic.com/en/docs/claude-code)
 [![Companion to recursive-drift](https://img.shields.io/badge/companion-recursive--drift-orange)](https://github.com/shawnla90/recursive-drift)
 
+**[English](README.md)** | [中文](README.zh.md)
+
 ---
 
 ## The Problem
